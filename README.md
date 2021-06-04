@@ -7,13 +7,13 @@ photos?sol=10.
 y construya una página web. Se evaluará la página creada y tiene que tener este formato:
 Se revisará la estructura del documento generado.
 
-" <html>
+<html>
 <head>
 </head>
 <body>
   <ul>
-    <li><img src='.../398380645PRCLF0030000CCAM04010L1.PNG'></li>
-    <li><img src='.../398381687EDR_F0030000CCAM05010M_.JPG'></li>
+    <li><img src='...'></li>
+    <li><img src='...'></li>
   </ul>
 </body>
 </html>
