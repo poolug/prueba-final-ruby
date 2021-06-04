@@ -7,7 +7,7 @@ photos?sol=10.
 y construya una página web. Se evaluará la página creada y tiene que tener este formato:
 Se revisará la estructura del documento generado.
 
-<html>
+" <html>
 <head>
 </head>
 <body>
